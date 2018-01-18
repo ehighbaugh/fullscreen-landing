@@ -1,0 +1,1 @@
+This is a simple webpage with a responsive, fullscreen landing page.
